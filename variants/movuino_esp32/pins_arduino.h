@@ -41,16 +41,14 @@ static const uint8_t A15 = 4;
 static const uint8_t A16 = 2;
 
 //For compatibility with NRF52 boards
-static const uint8_t D0 = 32;
-static const uint8_t D1 = 33;
-static const uint8_t D2 = 25;
-static const uint8_t D3 = 26;
-static const uint8_t D4 = 27;
-static const uint8_t D5 = 14;
-static const uint8_t D6 = 15; 
-static const uint8_t D7 = 12;
-static const uint8_t D8 = 13;
-static const uint8_t D9 = 4;
+static const uint8_t D0 = 25;
+static const uint8_t D1 = 26;
+static const uint8_t D2 = 27;
+static const uint8_t D3 = 14;
+static const uint8_t D4 = 15; 
+static const uint8_t D5 = 12;
+static const uint8_t D6 = 13;
+static const uint8_t D7 = 4;
 
 static const uint8_t X1 = 5;
 static const uint8_t X2 = 2;
